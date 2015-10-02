@@ -1,4 +1,5 @@
-The server deployed in Elgg for App Store with customized file uploading and downloading feathers.For Android client, please refer to the repository "AppStore-Client" <https://github.com/yifeichan/AppStore-Client>.
+The server deployed in Elgg for App Store with customized file uploading and downloading feathers.
+<br />For Android client, please refer to the repository "AppStore-Client" <https://github.com/yifeichan/AppStore-Client>.
 
 <br />
 Elgg
